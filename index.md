@@ -1,10 +1,12 @@
 ---
+title: Ressources
 layout: default
-title: Hank Quinlan, Horrible Cop
 ---
 
-# Hi there, I'm Hank Quinlan!
 
-I'm best known as the horrible cop from _A Touch of Evil_. Don't trust me. 
+# {{ page.title | upcase }}
 
-[Read more about my life...](/about)
+
+## [BIO1101](/bio1101.html)
+
+## [BIO3150](/bio3150.html)

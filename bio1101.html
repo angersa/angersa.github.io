@@ -1,0 +1,13 @@
+---
+layout: default
+title: Notes de cours BIO1101
+---
+<h1>Notes de cours BIO1101</h1>
+
+<ul>
+    {% for page in site.bio1101 %}
+    <li>
+        <h2><a href="{{ page.url }}">{{ page.name }}</a></h2>
+    </li>
+    {% endfor %}
+</ul>

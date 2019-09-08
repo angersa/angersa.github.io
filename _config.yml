@@ -1,4 +1,15 @@
-name: Hank Quinlan, Horrible Cop
+name: Ressources
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-dinky
+permalink: /blog/:title
+#theme: jekyll-theme-dinky
+
+title: Ressources
+description: Notes en support aux cours
+show_downloads: false
+
+collections:
+  bio1101:
+    output: true
+
+  bio3150:
+    outpur: true

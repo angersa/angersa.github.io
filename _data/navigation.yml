@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+
+- name: BIO1101
+  link: bio1101.html
+
+- name: BIO3150
+  link: bio3150.html

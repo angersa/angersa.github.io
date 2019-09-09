@@ -12,13 +12,15 @@ organiques (à base de carbone).
 
 ### H<sub>2</sub>O 
 
-L'eau (H<sub>2</sub>O) est la molécule la plus abondante dans la cellule,
+
+
+L'eau ($H_2O$) est la molécule la plus abondante dans la cellule,
 comptant pour environ 70% de la masse cellulaire.
 
 Sa principale caractéristique est sa polarité. L'électronégativité des
-atomes d'oxygène (Χ<sub>O</sub> = 3,44}) est plus grande que celle des atomes
-d'hydrogènes (Χ<sub>H</sub> = 2,2}), ce qui donne à O un leger surplus de charge
-négative (δ<sup>-</sup>), et aux H un surplus de charge positive (δ<sup>+</sup>).
+atomes d'oxygène ($Χ_O = 3,44$) est plus grande que celle des atomes
+d'hydrogènes ($Χ_H = 2,2$), ce qui donne à O un leger surplus de charge
+négative ($\delta^-$), et aux H un surplus de charge positive ($\delta^+$).
 
 À cause de cela, les molécules d'eau peuvent former des ponts hydrogène
 entre elles et avec d'autres molécules polaires, et interagir avec les
@@ -39,13 +41,13 @@ la formation des structures biologiques.[^1]
 
 Les principaux ions inorganiques sont :
 
--   Sodium (Na<sup>+</sup>)
--   Potassium (K<sup>+</sup>)
--   Magnésium (Mg<sup>2+</sup>)
--   Calcium (Ca<sup>2+</sup>)
--   Phosphate (HPO<sub>4</sub><sup>2-</sup>)
--   Chlore (Cl<sup>2-</sup>)
--   Bicarbonate (HCO<sub>3</sub><sup>-</sup>)
+-   Sodium ($Na^+$)
+-   Potassium ($K^+$)
+-   Magnésium ($Mg^{2+}$)
+-   Calcium ($Ca^{2+}$)
+-   Phosphate ($HPO_4^{2-}$)
+-   Chlore ($Cl^{2-}$)
+-   Bicarbonate ($HCO_3^-$)
 
 Ils composent moins de 1% de la masse cellulaire, mais jouent des rôles
 cruciaux dans plusieurs aspects du métabolisme.
@@ -61,15 +63,14 @@ propriétés diverses.
 
 Quatre classes principales:
 
--   Sucres
--   Lipides
--   Acides nucléiques
--   Acides aminés
+- Sucres
+- Lipides
+- Acides nucléiques
+- Acides aminés
 
 Les sucres, les acides nucléiques et les acides aminés sont le plus
 souvent présents sous forme de macromolécules composées de polymères
 rassemblant des centaines et des milliers de molécules pus simples.
-
 
 ### Glucides
 
@@ -79,12 +80,11 @@ Incluent des sucres simples et des polysaccharides.
 
 Rôles:
 
--   Source d'énergie des cellules
--   Réserve d'énergie
--   Marqueurs pour le transport et le repliement des protéines
--   Marqueurs de la surface cellulaire
--   Reconnaissance et interactions entre les cellules des tissus
-
+- Source d'énergie des cellules
+- Réserve d'énergie
+- Marqueurs pour le transport et le repliement des protéines
+- Marqueurs de la surface cellulaire
+- Reconnaissance et interactions entre les cellules des tissus
 
 #### Sucres simples
 
@@ -98,8 +98,7 @@ Ils peuvent aussi être des marqueurs pour l'adhésion à la matrice
 extracellulaire et le transport des protéines vers leur destination à
 l'intérieur de la cellule.
 
-Les plus communes sont les hexoses (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>), principalement le
-glucose, les pentoses (C<sub>5</sub>H<sub>10</sub>O<sub>5</sub>) et les trioses (C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>).
+Les plus communes sont les hexoses ($C_6H_{12}O_6$), principalement le glucose, les pentoses ($C_5H_{10}O_5$) et les trioses ($C_3H_6O_3$).
 
 Les monosaccharides peuvent être liés ensemble par des liens
 glycosidiques entre deux de leurs carbones pour former des polymères.
@@ -121,19 +120,18 @@ La cellulose est également un polymère de glucose, mais de conformation
 chaînes étendues qui peuvent s'aligner et s'associer entre elles pour
 former les fibres végétales, qui peuvent être très résistantes.
 
-
 ### Lipides
 
 Rôles:
 
--   Importante réserve d'énergie
--   Composant principal de la membrane plasmique
--   Signalisation cellulaire
--   Hormones stéroïdiennes
--   Messagers intracellulaires
+- Importante réserve d'énergie
+- Composant principal de la membrane plasmique
+- Signalisation cellulaire
+- Hormones stéroïdiennes
+- Messagers intracellulaires
 
 Les lipides les plus simples sont les acides gras, de longues chaînes de
-carbones (16 à 18) et d'hydrogènes avec un groupe carbonyle (COO<sup>-</sup>) à
+carbones (16 à 18) et d'hydrogènes avec un groupe carbonyle ($COO^-$) à
 une extrémité.
 
 La chaîne peut être saturée : toutes les positions des atomes de carbone
@@ -151,7 +149,6 @@ Le stockage d'énergie sous forme de gras est plus efficace que sous
 forme de glucides, car environ deux fois plus d'énergie peut être
 obtenue par le métabolisme d'une même masse de lipides par rapport aux
 glucides.
-
 
 #### Phospholipides
 
@@ -186,7 +183,6 @@ différents groupements chimiques.
 Les phospholipides jouent aussi un rôle important dans la signalisation
 cellulaire en tant que précurseurs de messagers chimiques.
 
-
 ### Acides nucléiques
 
 Constituants de l'ADN et de l'ARN.
@@ -204,7 +200,6 @@ aussi catalyser des réactions chimiques.
 
 L'ADN et l'ARN sont des polymères de nucléotides.
 
-
 #### Nucléotides
 
 Les nucléotides sont constitués de bases purines et pyrimidiques liées à
@@ -219,7 +214,6 @@ Ces bases sont liées au 2'-désoxyribose dans l'ADN, ou au ribose dans
 l'ARN. Une base liée à un sucre forme un nucléoside. Les nucléotides
 sont en plus liés à un ou plusieurs groupes phosphate par leur carbone
 5'.
-
 
 #### Polymérisation
 
@@ -237,26 +231,21 @@ l'extrémité 3', les nucléotides libres étant toujours associés à l'OH
 libre en 3' d'une chaîne en cours de synthèse. Par convention, on écrit
 toujours les séquences de nucléotides dans le sens 5' → 3'.
 
-
-
 #### Complémentarité
 
 C'est l'ordre dans lequel sont assemblés les nucléotides qui détermine
 l'information contenue dans les molécules d'ADN et d'ARN.
-
-
 
 ### Acides aminés
 
 Les acides aminés sont les précurseurs des protéines. On retrouve 20
 acides aminés différents dans les cellules.
 
-Tous les acides aminés sont constitués d'un groupement acide (COOH) et
-d'un groupement amine (NH<sub>3</sub>) reliés à un carbone central (Cα). Les deux
-autres positions du Cα sont occupées par un atome d'hydrogène et un
+Tous les acides aminés sont constitués d'un groupement acide ($COOH$) et
+d'un groupement amine ($NH_3$) reliés à un carbone central ($C\alpha$). Les deux
+autres positions du $C\alpha$ sont occupées par un atome d'hydrogène et un
 groupement variable. C'est la composition du groupement variable qui
 donne ses propriétés aux acides aminés.
-
 
 #### Non polaires
 
@@ -275,41 +264,37 @@ voisins à l'intérieur d'une protéine.
 
 ##### Tableau 1 : Acides aminés hydrophobes {#tableau1}
 
-  Nom            |  3 lettres   | 1 lettre
-  :--------------|  :---------: | :--------:
-  Glycine        |  Gly         | G
-  Alanine        |  Ala         | A
-  Valine         |  Val         | V
-  Leucine        |  Leu         | L
-  Isoleucine     |  Ile         | I
-  Proline        |  Pro         | P
-  Cystéine       |  Cys         | C
-  Méthionine     |  Met         | M
-  Phénylalanine  |  Phe         | F
-  Tryptophane    |  Trp         | W
-
-
+  | Nom           | 3 lettres | 1 lettre |
+  | :------------ | :-------: | :------: |
+  | Glycine       |    Gly    |    G     |
+  | Alanine       |    Ala    |    A     |
+  | Valine        |    Val    |    V     |
+  | Leucine       |    Leu    |    L     |
+  | Isoleucine    |    Ile    |    I     |
+  | Proline       |    Pro    |    P     |
+  | Cystéine      |    Cys    |    C     |
+  | Méthionine    |    Met    |    M     |
+  | Phénylalanine |    Phe    |    F     |
+  | Tryptophane   |    Trp    |    W     |
 
 #### Neutres polaires
 
 Cinq acides aminés ont des groupements polaires, mais non chargés. La
 sérine, la thréonine et la tyrosine ont des groupements OH très
 réactifs. L'asparagine et la glutamine ont des groupements amides
-(O=C-NH<sub>2</sub>). À cause de son groupement SH, la cystéine est très
+($O=C-NH_2$). À cause de son groupement $SH$, la cystéine est très
 légèrement polaire. Ces acides aminés sont donc hydrophiles et tendent à
 se localiser à l'extérieur des protéines ([Tableau 2](#tableau2))
 
 ##### Tableau 2 : Acides aminés polaires {#tableau2}
 
-  Nom          | 3 lettres   | 1 lettre
-  :------------| :---------: | :---------:
-  Sérine       | Ser         | S
-  Thréonine    | Thr         | T
-  Tyrosine     | Tyr         | Y
-  Asparagine   | Asp         | N
-  Glutamine    | Gln         | Q
-
-
+  | Nom        | 3 lettres | 1 lettre |
+  | :--------- | :-------: | :------: |
+  | Sérine     |    Ser    |    S     |
+  | Thréonine  |    Thr    |    T     |
+  | Tyrosine   |    Tyr    |    Y     |
+  | Asparagine |    Asp    |    N     |
+  | Glutamine  |    Gln    |    Q     |
 
 #### Chargés {#org063f804}
 
@@ -319,24 +304,23 @@ lysine et l'arginine sont très basiques et sont la plupart du temps
 exposées à la surface des protéines à cause de leur hydrophilie.
 L'histidine peut être neutre ou chargée à pH physiologique. Cet acide
 aminé est donc fréquemment impliqué dans les réactions enzymatiques
-impliquant un échange d'ions H<sup>+</sup>.
+impliquant un échange d'ions $H^+$.
 
-Deux acides aminés ont des acides (COOH) comme chaîne latérale: l'acide
+Deux acides aminés ont des acides ($COOH$) comme chaîne latérale: l'acide
 aspartique et l'acide glutamique. Comme ils sont souvent chargés
-négativement dans la cellule (COO<sup>-</sup>), on y réfère souvent comme
+négativement dans la cellule ($COO_-$), on y réfère souvent comme
 aspartate et glutamate. Ils sont aussi très hydrophiles et par
 conséquent à la surface des protéines ([Tableau 3](#tableau3)).
 
 ##### Tableau 3 : Acides aminés chargés {#tableau3}
 
-  Nom                | 3 lettres    | 1 lettre
-  :----------------- | :----------:  | :---------:
-  Lysine             | Lys          | K
-  Arginine           | Arg          | R
-  Histidine          | His          | H
-  Acide glutamique   | Glu          | E
-  Acide aspartique   | Asp          | D
-
+  | Nom              | 3 lettres | 1 lettre |
+  | :--------------- | :-------: | :------: |
+  | Lysine           |    Lys    |    K     |
+  | Arginine         |    Arg    |    R     |
+  | Histidine        |    His    |    H     |
+  | Acide glutamique |    Glu    |    E     |
+  | Acide aspartique |    Asp    |    D     |
 
 
 #### Lien peptide {#org830cd22}
@@ -349,8 +333,7 @@ un groupe carboxyle libre (C-terminal). Par convention, on écrit
 toujours les chaînes peptidiques du N- vers le C-teminal, ce qui
 correspond également à la direction de la synthèse des protéines.
 
-
-## Liaisons chimiques 
+## Liaisons chimiques
 
 De toutes les molécules du vivant, celles qui nous intéressent le plus
 en biologie moléculaire sont les acides nucléiques et les protéines. Ces
@@ -366,8 +349,7 @@ macromolécules, et permettent aux protéines, à l'ADN et à l'ARN de
 former des complexes qui régulent les aspects fondamentaux de la
 biologie moléculaire.
 
-
-### Interactions électrostatiques 
+### Interactions électrostatiques
 
 Toutes les liaisons chimiques sont expliquées sur la base d'interactions
 électrostatiques. Les liens forts impliquent l'échange d'un électron de
@@ -381,15 +363,14 @@ Le nombre de liens faibles est beaucoup plus variable et repose
 seulement sur des interactions électrostatiques, c'est-à-dire qu'elles
 reposent sur la force d'attraction existant entre des charges opposées.
 
-
-### Énergie 
+### Énergie
 
 La formation spontanée de liens chimiques entre deux atomes implique
 toujours la libération d'énergie des atomes libres et sa conversion vers
 une autre forme d'énergie. Plus le lien est fort, plus l'énergie libérée
 est grande.
 
-\\\[ A + B \\rightarrow AB + \\textrm{énergie}\\\]
+$$ A + B \rightarrow AB + \textrm{énergie} $$
 
 Les molécules sont soumises à des forces qui brisent les liens. La plus
 importante source d'énergie est la chaleur, qui provoque des collisions
@@ -397,7 +378,7 @@ entre les molécules qui peuvent briser les liens. Plus la chaleur est
 élevée, plus les molécules se déplacent rapidement et plus la
 probabilité de briser un lien lors d'une collision est grande.
 
-\\\[ A \\rightleftharpoons B \\qquad \\Delta G = +10 \~ kcal/mol\\\]
+$$ A \rightleftharpoons B \qquad \Delta G = +10 ~ kcal/mol $$
 
 La quantité d'énergie requise pour briser un lien est identique à la
 quantité d'énergie libérée lors de la formation de ce lien. Première loi
@@ -408,11 +389,9 @@ et du bris des liens. À l'équilibre, le nombre de liens formés égal le
 nombre de liens brisés. La proportion d'atomes liés peut donc être
 décrite par la loi d'action de masse:
 
-\\\[ K\_{eq} = \\frac{conc^{AB}}{conc^A \\times conc^B}\\\]
+$$ K_{eq} = \frac{conc^{AB}}{conc^A \times conc^B} $$
 
-Où K<sub>eq</sub> est la constante d'équilibre et conc<sup>A</sup>, conc<sup>B</sup> et conc<sup>AB</sup> sont les concentrations de A, B et AB en moles par litre (mol/L).
-
-
+Où $K_eq$ est la constante d'équilibre et $conc^A$, $conc^B$ et $conc^AB$ sont les concentrations de A, B et AB en moles par litre (mol/L).
 
 #### L\'énergie libre
 
@@ -428,35 +407,31 @@ Plus un lien est fort, plus le changement d'énergie libre accompagnant
 sa formation est grand, et plus la proportion d'atomes sous forme liée
 est grande :
 
-\\\[ \\Delta G = -RT(ln K\_{eq}) \\quad ou \\quad K\_{eq} = e^{-
-\\Delta G / RT}\\\]
+$$ \Delta G = -RT(ln K_{eq}) \quad ou \quad K_{eq} = e^{-\Delta G / RT} $$
 
 où R est la constante des gaz parfaits (1,987 cal/deg ⋅ mol) et T est la
 température (en Kelvin).
 
 Les liens covalents ont une très grande énergie libre, allant de -50 à
 -110 kcal/mol. Conséquemment, leur constante d'équilibre sera aussi très
-grande. Par exemple, pour un \\(\\Delta G\\) de -100 kcal/mol, à partir
+grande. Par exemple, pour un $\Delta G$ de -100 kcal/mol, à partir
 d'1 mol/L d'atomes libres, seulement 1/1040 atome restera libre lorsque
 l'équilibre sera atteint.
 
+### Liens faibles dans les systèmes biologiques
 
-
-### Liens faibles dans les systèmes biologiques 
-
-::: {#text-org92ca219 .outline-text-3}
 Les liens les plus importants en biologie sont les liens faibles:
 
--   van der Waals
--   Hydrophobes
--   Hydrogènes
--   Ioniques
+- van der Waals
+- Hydrophobes
+- Hydrogènes
+- Ioniques
 
 La différence entre liens hydrogènes et liens ioniques est parfois
 arbitraire.
 
 Les liens les plus faibles sont les interactions de van der Waals, avec
-des \\(\\Delta G\\) de 1 - 2 kcal/mol, légèrement supérieurs à l'énergie
+des $\Delta G$ de 1 - 2 kcal/mol, légèrement supérieurs à l'énergie
 du mouvement thermique. L'énergie des liens hydrogène et des liens
 ioniques se situe entre 3 et 7 kcal/mol. L'énergie cinétique moyenne des
 molécules à 25°C est environ 0,6 kcal/mol, ce qui signifie que les
@@ -476,9 +451,7 @@ Certaines molécules peuvent donc former plusieurs types de liaisons
 faibles, mais elles ont tendance à former le lien le plus fort, car
 elles perdent alors plus d'énergie libre.
 
-
-
-#### Polarité 
+#### Polarité
 
 Les molécules formées d'atomes d'électronégativité différente sont
 polarisées durablement. Par exemple, l'eau est la molécule polaire par
@@ -486,19 +459,17 @@ excellence. Elle est formée d'un atome d'oxygène, fortement
 électronégatif, et de deux atomes d'hydrogène, avec une
 électronégativité moindre. Les électrons ont donc tendence à être
 attirés par l'oxygène, formant un dipôle où l'O est négatif
-(\\(\\delta^-\\)) et les H positifs (\\(\\delta^+\\)). À l'opposé, une
-molécule composée uniquement d'oxygène (O<sub>2</sub>) a une distribution
+($\delta^-$) et les H positifs ($\delta^+$). À l'opposé, une
+molécule composée uniquement d'oxygène ($O_2$) a une distribution
 symétrique des électrons sur les deux atomes d'oxygène et n'est pas du
 tout polaire.
-
-
 
 #### Forces de van der Waals
 
 Une combinaison d'atomes où les charges positives et négatives sont
 séparées forme un dipôle. Les molécules qui ont un dipôle sont polaires,
 celles où les atomes ont une même affinité pour leurs électrons, comme
-le méthane (CH<sub>4</sub>) par exemple, sont non polaires.
+le méthane ($CH_4$) par exemple, sont non polaires.
 
 Une molécule non polaire peut également former un dipôle induit, lorsque
 la dispersion des électrons est influencée par un ion voisin. Dans ces
@@ -511,46 +482,41 @@ des électrons dans cette configuration stabilise la molécule.
 On nomme collectivement les interactions entre dipôles permanents ou
 induits forces de van der Waals.
 
+#### Liens hydrogènes
 
-
-#### Liens hydrogènes 
-
-Un lien H se forme entre un atome donneur d'hydrogène A-H et un atome
-avec un atome chargé négativement, accepteur de la liaison hydrogène B.
-Le donneur A doit être un élément électronégatif comme l'oxygène ou
+Un lien $H$ se forme entre un atome donneur d'hydrogène $A-H$ et un atome
+avec un atome chargé négativement, accepteur de la liaison hydrogène $B$.
+Le donneur $A$ doit être un élément électronégatif comme l'oxygène ou
 l'azote, pour que l'hydrogène porte une charge partielle. Cette charge
-est projetée vers l'accepteur B.
+est projetée vers l'accepteur $B$.
 
-En biologie, la plupart des liens H impliquent des hydrogènes liés de
-façon covalente à un atome d'oxygène (OH) ou d'azote (NH), et la plupart
+En biologie, la plupart des liens $H$ impliquent des hydrogènes liés de
+façon covalente à un atome d'oxygène ($OH$) ou d'azote ($NH$), et la plupart
 du temps, l'accepteur négatif est un azote ou un oxygène [Tableau
 4](#tableau4).
 
-Les liens H sont plus faibles que les liaisons covalentes, mais plus
+Les liens $H$ sont plus faibles que les liaisons covalentes, mais plus
 forts que les interactions de van der Waals. De ce fait, les atomes liés
 par un lien H sont plus près les uns des autres que ceux liés par les
 interactions de van der Waals, mais pas aussi proches que les atomes
 liés de façon covalente.
 
-Les liens H sont directionnels, les liens les plus forts impliquant un H
-pointant directement vers l'atome accepteur. À partir de 30˚ d'écart, la
+Les liens $H$ sont directionnels, les liens les plus forts impliquant un H
+pointant directement vers l'atome accepteur. À partir de 30$^\circ$ d'écart, la
 liaison est considérablement plus faible.
 
 ##### Tableau 4 : Liens H les plus communs en biologie {#tableau4}
 
-  Lien                                  | Longueur du lien H (Å)
-  :------------------------------------ | :---------------------:
-  \\(O-H \\cdot \\cdot \\cdot O\\)      | 2,70 ± 0,10
-  \\(O-H \\cdot \\cdot \\cdot O^-\\)   | 2,63 ± 0,10
-  \\(O-H \\cdot \\cdot \\cdot N\\)      | 2,88 ± 0,13
-  \\(N-H \\cdot \\cdot \\cdot O\\)      | 3.04 ± 0,13
-  \\(N^+-H \\cdot \\cdot \\cdot O\\)   | 2,93 ± 0,10
-  \\(N-H \\cdot \\cdot \\cdot N\\)      | 3,10 ± 0,13
+  | Lien                               | Longueur du lien H (Å) |
+  | :--------------------------------- | :--------------------: |
+  | $O-H \cdot \cdot \cdot O$   |      2,70 ± 0,10       |
+  | $O-H \cdot \cdot \cdot O^-$ |      2,63 ± 0,10       |
+  | $O-H \cdot \cdot \cdot N$   |      2,88 ± 0,13       |
+  | $N-H \cdot \cdot \cdot O$   |      3.04 ± 0,13       |
+  | $N^+-H \cdot \cdot \cdot O$ |      2,93 ± 0,10       |
+  | $N-H \cdot \cdot \cdot N$   |      3,10 ± 0,13       |
 
-
-
-
-#### Efficacité 
+#### Efficacité
 
 Les liens faibles ne sont efficaces que si les surfaces d'interaction
 sont proches. Les structures doivent être complémentaires de façon à ce
@@ -566,42 +532,39 @@ plusieurs interactions faibles de type van der Waals, mais forme tout de
 même un complexe stable car les molécules forment des surfaces
 s'emboîtant l'une dans l'autre.
 
-
-
-#### L'eau 
+#### L'eau
 
 L'eau se distingue des autres petites molécules par le fait qu'elle
 demeure liquide aux températures « vitales ». D'autres petites molécules
-similaires comme le sulfure d'hydrogène (H~2~S) ou l'ammoniac (NH~3~)
-deviennent gazeux à, respectivement, \\(-61^\\circ C\\) et
-\\(-33^\\circ C\\).
+similaires comme le sulfure d'hydrogène ($H_2S$) ou l'ammoniac ($NH_3$)
+deviennent gazeux à, respectivement, -61$^\circ C$ et
+-33$^\circ C$.
 
-L'eau demeure liquide jusqu'à \\(100^\\circ C\\) à cause des ponts
+L'eau demeure liquide jusqu'à 100$^\circ C$ à cause des ponts
 hydrogènes qui stabilisent sa structure. Dans chaque molécule d'eau,
 l'atome d'oxygène peut lier deux atomes d'hydrogène externes, tandis que
 chaque atome d'hydrogène peut lier un oxygène adjacent. Ainsi, à l'état
 solide et liquide, chaque molécule d'eau a quatre voisins, un dans
 chaque direction d'un tétraèdre. Dans la glace, cet arrangement est très
-rigide et les molécules sont fixes. Au-dessus de \\(0^\\circ C\\),
-l'agitation thermique est suffisante pour briser les liens H et
+rigide et les molécules sont fixes. Au-dessus de 0$^\circ C$,
+l'agitation thermique est suffisante pour briser les liens $H$ et
 permettre aux molécules de changer de voisins constamment. Cependant, à
-chaque instant, la plupart des molécules sont liées par quatre liens H,
+chaque instant, la plupart des molécules sont liées par quatre liens $H$,
 ce qui empêche l'eau de s'évaporer.
 
+#### Solubilité
 
-#### Solubilité 
-
-L'énergie des liens H est beaucoup plus grande que l'énergie des
-contacts van der Waals; les liens H sont donc favorisés. À cause de
+L'énergie des liens $H$ est beaucoup plus grande que l'énergie des
+contacts van der Waals; les liens $H$ sont donc favorisés. À cause de
 cela, si on tente de mélanger par exemple du benzène avec de l'eau, les
 molécules d'eau et de benzène se séparent rapidement, car les molécules
-d'eau ont tendance à former des lien H l'une avec l'autre tandis que les
+d'eau ont tendance à former des liens $H$ l'une avec l'autre tandis que les
 molécules de benzène interagissent via des liens de van der Waals. Il
 est donc virtuellement impossible d'intégrer une molécule incapable de
-former des liens H dans l'eau.
+former des liens $H$ dans l'eau.
 
 En revanche, les molécules polaires contiennent des groupements capables
-de former des liens H, et sont solubles dans l'eau. Mais même ces
+de former des liens $H$, et sont solubles dans l'eau. Mais même ces
 interactions ne sont pas aussi favorables que les liens entre les
 molécules d'eau, et même les molécules les plus polaires ont une
 solubilité limitée.
@@ -613,8 +576,6 @@ qu'elles trouvent des surfaces complémentaires auxquelles elles
 s'attachent favorablement pour libérer les molécules d'eau qui peuvent
 s'associer entre elles.
 
-
-
 #### Liens hydrophobes
 
 Les liens hydrophobes ne sont pas des liens proprement dits, mais
@@ -622,8 +583,6 @@ reflètent la tendance des groupes non polaires à se regrouper afin de
 minimiser les contacts avec l'eau. Ces arrangements jouent un rôle
 crucial dans la conformation tridimensionnelle des protéines, leur
 insertion dans les membranes et la formation de complexes protéiques.
-
-
 
 ### Liens forts
 
@@ -633,9 +592,9 @@ sont déterminants pour l'accumulation et l'obtention de l'énergie
 nécessaire au maintien et au développement de la cellule.
 
 Les lois de la thermodynamique dictent que seules les réactions
-engendrant un \\(\\Delta G\\) négatif ont un équilibre énergétique
+engendrant un $\Delta G$ négatif ont un équilibre énergétique
 favorable. Que les enzymes interviennent dans la formation ou la cassure
-d'un lien covalent ne modifie en rien la condition d'un \\(\\Delta G\\)
+d'un lien covalent ne modifie en rien la condition d'un $\Delta G$
 négatif.
 
 Néanmoins, plusieurs réactions biochimiques dans la cellule,
@@ -651,15 +610,13 @@ avant d'être unis en polymères par des enzymes spécifiques.
 Cette condition explique en partie pourquoi l'ATP est une molécule si
 fondamentale pour la cellule.
 
-
-
 #### Donneurs d'énergie
 
 Les liens covalents ne possèdent pas tous la même quantité d'énergie.
 Par exemple, le lien covalent entre deux atomes d'oxygène ou deux atomes
 d'hydrogène sont beaucoup plus faibles que le lien entre un atome
-d'oxygène et un atome d'hydrogène. La formation de liens O--H aux dépens
-de liens O--O ou H--H libère de l'énergie. C'est pourquoi, si la
+d'oxygène et un atome d'hydrogène. La formation de liens $O-H$ aux dépens
+de liens $O-O$ ou $H-H$ libère de l'énergie. C'est pourquoi, si la
 concentration est suffisante, le mélange d'oxygène et d'hydrogène
 donnera de l'eau.
 
@@ -668,20 +625,18 @@ covalents faibles plutôt que par des liens plus forts. Plus le lien est
 fort, moins il peut libérer d'énergie en se brisant. Ainsi, le glucose
 est la nourriture par excellence, car la quantité d'énergie libre
 décroît grandement lorsqu'il est oxydé par l'oxygène pour donner deux
-molécules de CO<sub>2</sub>. Au contraire, le CO<sub>2</sub> contient deux liaisons
+molécules de $CO_2$. Au contraire, le $CO_2$ contient deux liaisons
 covalentes doubles extrêmement stables entre le carbone et l'oxygène, et
-ne peut être utilisé comme source d\'énergie. Seule la photosynthèse
-peut transformer le CO<sub>2</sub> en utilisant l'énergie des quanta lumineux
+ne peut être utilisé comme source d'énergie. Seule la photosynthèse
+peut transformer le $CO_2$ en utilisant l'énergie des quanta lumineux
 pour former de l'ATP chez les plantes.
 
-Les principaux donneurs d\'énergie de la cellule sont répértoriés dans
+Les principaux donneurs d'énergie de la cellule sont répértoriés dans
 la Figure 1.
-
 
 | ![tab-donneurs.png](/assets/images/tab-donneurs.png){:width="80%"} |
 | :-----------------:|
 |  _Figure 1 : Principaux donneurs d'énergie_ |
-
 
 #### ATP
 
@@ -689,20 +644,26 @@ L'ATP est le transporteur d'énergie par excellence dans la cellule. Il
 est formé d'un adénine, d'un ribose, et de trois groupements phosphates.
 L'hydrolyse de l'ATP fournit une quantité considérable d'énergie.
 
-\\begin{align\*} ATP + H\_2O → ADP + P\_i + H+\\Delta G &=
--7\~kcal/mol\\\\ ADP + H\_2O → AMP + P\_i + H+\\Delta G &=
--6\~kcal/mol\\\\ \\end{align\*}
+$$
+\begin{align*}
+ATP + H_2O → ADP + P_i + H+\Delta G & =-7~kcal/mol\\
+ADP + H_2O → AMP + P_i + H+\Delta G & = -6~kcal/mol\\
+\end{align*}
+$$
 
 OU
 
-\\begin{align\*} ATP + H\_2O → AMP + PP\_i + H+\\Delta G &=
--7\~kcal/mol\\\\ PP\_i + H\_2O → 2P\_i + H+\\Delta G &= -6\~kcal/mol\\\\
-\\end{align\*}
+$$
+\begin{align*}
+ATP + H_2O → AMP + PP_i + H+\Delta G &= -7~kcal/mol\\ 
+PP_i + H_2O → 2P_i + H+\Delta G &= -6~kcal/mol\\
+\end{align*}
+$$
 
 Cette énergie est utilisée dans la biosynthèse, transformée en travail
 mécanique ou bien utilisée pour le transport actif des molécules.
 
-Le phosphate \\(\\gamma\\) de l'ATP peut également être transféré
+Le phosphate $\gamma$ de l'ATP peut également être transféré
 facilement à une autre molécule, ce qui génère un nouveau composé riche
 en énergie. Cette phosphorylation est au coeur de très nombreuses
 réactions d'activation du métabolisme et de cascades de signalisation
@@ -722,17 +683,13 @@ thermodynamique, l'ATP est très stable et il ne s'hydrolyse pas
 spontanément. Cette stabilité permet aux enzymes d'utiliser l'ATP de
 manière ciblée.
 
-
-
-
 ## Enzymes
-
 
 Les enzymes sont des protéines (parfois, mais rarement, des ARN), qui
 catalysent des réactions biochimiques à l'intérieur des cellules.
 
 Catalyseur
-:   Substance utilisée pour modifier la vitesse d'une réaction chimique
+: Substance utilisée pour modifier la vitesse d'une réaction chimique
     sans être elle-même altérée par cette réaction.
 
 Sans enzymes, aux températures et pressions faibles nécessaires pour
@@ -745,15 +702,13 @@ réaction en abaissant l'énergie d'activation nécessaire à la réaction.
 
 Conversion d'un substrat en produit:
 
-\\\[ S \\rightleftharpoons P \\\]
+$$ S \rightleftharpoons P $$
 
 En présence d'un enzyme
 
-\\\[ S + E \\rightleftharpoons ES \\rightleftharpoons E + P \\\]
+$$ S + E \rightleftharpoons ES \rightleftharpoons E + P $$
 
-
-
-### Liaison au substrat {#orgb1e9519}
+### Liaison au substrat
 
 Les enzymes doivent reconnaître de façon très spécifique leur substrat.
 En général, le ou les substrats sont adaptés au site actif de l'enzyme.
@@ -778,9 +733,7 @@ sérine de l'enzyme. L'enzyme retrouve son intégrité lorsqu'une molécule
 d'eau lui redonne son proton, libérant du même coup la portion
 N-terminale de la protéine substrat.
 
-
-
-### Coenzymes 
+### Coenzymes
 
 Le site actif d'une enzyme ne suffit pas toujours pour catalyser les
 réactions enzymatiques. Plusieurs utilisent des coenzymes qui
@@ -795,10 +748,10 @@ transféré à une protéine par une kinase.
 Dans certains cas, les coenzymes sont fixés de façon covalente à
 l'enzyme. On parle alors de groupe prosthétique. Le groupement heme est
 ainsi essentiel pour plusieurs enzymes impliquées dans les réactions
-d'oxydoréduction. Il fixe un ion \\(Fe^{3+}\\) qui fournit un électron
-à un premier substrat et devient \\(Fe^{4+}\\) (réduction du substrat).
+d'oxydoréduction. Il fixe un ion $Fe^{3+}$ qui fournit un électron
+à un premier substrat et devient $Fe^{4+}$ (réduction du substrat).
 Lors de l'oxydation, il récupère un électron d'un second substrat, et
-redevient \\(Fe^{3+}\\), à nouveau disponible pour un autre cycle
+redevient $Fe^{3+}$, à nouveau disponible pour un autre cycle
 réactionnel.
 
 La plupart des coenzymes sont dérivés de vitamines qui peuvent être
@@ -808,20 +761,17 @@ vitaminés ([Tableau 5](#tableau5)).
 
 ##### Tableau 5 : Principaux coenzymes {#tableau5}
 
-  Coenzyme                 | Vitamine précurseure   | Réaction chimique
-  :----------------------- | :--------------------- | :-------------------------------------
-  NAD+, NADP+              | Niacine (B3)           | Oxydoréduction, transfert de proton
-  FAD                      | Riboflavine (B2)       | Oxydoréduction, transfert de proton
-  Thiamine pyrophosphate   | Thiamine (B1)          | Transfert d'aldéhyde
-  Coenzyme A               | Pantothenate (B5)      | Transfert de groupes acyles
-  Tetrahydrofolate         | Folate                 | Transfert de groupes C
-  Biotine                  | Biotine                | Carboxylation
-  Pyridoxal phosphate      | Pyridoxal (B6)         | Transamination
-  heme                     |                        | Oxydoréduction, transfert d'électron
-  ATP                      |                        | Phosphorylation
-
-
-
+  | Coenzyme               | Vitamine précurseure | Réaction chimique                    |
+  | :--------------------- | :------------------- | :----------------------------------- |
+  | NAD+, NADP+            | Niacine (B3)         | Oxydoréduction, transfert de proton  |
+  | FAD                    | Riboflavine (B2)     | Oxydoréduction, transfert de proton  |
+  | Thiamine pyrophosphate | Thiamine (B1)        | Transfert d'aldéhyde                 |
+  | Coenzyme A             | Pantothenate (B5)    | Transfert de groupes acyles          |
+  | Tetrahydrofolate       | Folate               | Transfert de groupes C               |
+  | Biotine                | Biotine              | Carboxylation                        |
+  | Pyridoxal phosphate    | Pyridoxal (B6)       | Transamination                       |
+  | heme                   |                      | Oxydoréduction, transfert d'électron |
+  | ATP                    |                      | Phosphorylation                      |
 
 ### Noms des enzymes 
 
@@ -857,9 +807,7 @@ Les ligases
 :   forment des liaisons entre deux molécules en utilisant l'hydrolyse
     de l'ATP comme source d'énergie.
 
-
-
-### Cinétique enzymatique -- Michaelis-Menten 
+### Cinétique enzymatique -- Michaelis-Menten
 
 Les enzymes ne modifient pas la constante d'équilibre d'une réaction,
 mais elles accélèrent significativement l'atteinte de cette constante
@@ -875,74 +823,68 @@ quelques observations expérimentales fondamentales.
 Tout au long du déroulement de la réaction, le substrat est consommé. La
 concentration est donc modifiée, ce qui implique que la vitesse change.
 On considère donc toujours seulement la vitesse initiale de la réaction
-(\\(V\_0\\)), en faisant l'hypothèse qu'aux instants initiaux de la
+($V_0$), en faisant l'hypothèse qu'aux instants initiaux de la
 réaction, la concentration de substrat est largement excédentaire à
 celle du produit, et qu'elle ne varie pas suffisamment pour modifier la
 vitesse de réaction.
 
 - L'équation de Michaelis-Menten
 
-En observant la vitesse initiale de la réaction (\\(V\_0\\)) en fonction
-de la concentration initiale de substrat (\\(\[S\]\\)), on peut
+En observant la vitesse initiale de la réaction ($V_0$) en fonction
+de la concentration initiale de substrat ($[S]$), on peut
 découvrir les paramètres décrivant la cinétique de l'enzyme. On
 reconnaît deux «zones» importantes dans la courbe décrivant la relation
-entre la \\(V\_0\\) et \\(\[S\]\\).
+entre la $V_0$ et $[S]$.
 
-1.  Lorsque \\(\[S\]\\) est très petite
-    -   Le nombre de molécules d'enzymes disponible dépasse largement le
+1. Lorsque $[S]$ est très petite
+   - Le nombre de molécules d'enzymes disponible dépasse largement le
         nombre de molécules de substrat à transformer, et il y a donc
         presque toujours une enzyme disponible pour une nouvelle
         réaction. L'augmentation de la vitesse est donc linéaire par
         rapport à la concentration de substrat.
-2.  Lorsque \\(\[S\]\\) est très grande
-    -   L'enzyme est «saturé». Cela signifie que toutes les molécules
+2.  Lorsque $[S]$ est très grande
+    -  L'enzyme est «saturé». Cela signifie que toutes les molécules
         d'enzymes sont occupées par le substrat, et travaillent à pleine
         capacité. Augmenter davantage la concentration du substrat ne
         modifiera plus la vitesse, car aucun site actif n'est
-        disponible. On a atteint la vitesse maximale (\\(V\_{max}\\)).
+        disponible. On a atteint la vitesse maximale ($V_{max}$).
 
 L'équation de Mikaelis-Menten décrit la relation entre la vitesse de la
 réaction et la concentration du substrat :
 
-\\\[ V\_0 = \\frac{V\_{max}\[S\]}{K\_m + \[S\]}\\\]
+$$ V_0 = \frac{V_{max}[S]}{K_m + [S]} $$
 
-La constante de Mikaelis (\\(K\_m\\)) est la concentration de substrat
+La constante de Mikaelis ($K_m$) est la concentration de substrat
 où la vitesse de réaction est exactement la moitié de la vitesse
 maximale. Ceci est très simple à démontrer algébriquement, en remplaçant
-\\(K\_m\\) par \\(\[S\]\\) (si \\(K\_m = \[S\]\\)) dans l'équation
+$K_m$ par $[S]$ (si $K_m = [S]$) dans l'équation
 ci-dessus.
 
-\\\[ V\_0 = \\frac{V\_{max}\[S\]}{\[S\] + \[S\]} =
-\\frac{V\_{max}\[S\]}{2\[S\]} = \\frac{V\_{max}}{2} \\\]
+$$ V_0 = \frac{V_{max}[S]}{[S] + [S]} = \frac{V_{max}[S]}{2[S]} = \frac{V_{max}}{2} $$
 
+#### Représentation linéaire
 
-
-#### Représentation linéaire 
-
-Parce que Vmax représente une valeur asymptotique qui ne sera jamais
-atteinte expérimentalement, l'estimation du \\(V\_{max}\\) et du
-\\(K\_m\\) à partir de la représentation graphique de \\(V\_0\\) en
-fonction de \\(\[S\]\\) est difficile et imprécise. Différents
+Parce que $V_{max}$ représente une valeur asymptotique qui ne sera jamais
+atteinte expérimentalement, l'estimation du $V_{max}$ et du
+$K_m$ à partir de la représentation graphique de $V_0$ en
+fonction de $[S]$ est difficile et imprécise. Différents
 traitements algébriques permettant de linéariser la relation sont
 utilisés à cette fin, bien que l'utilisation d'outils informatiques
 permette maintenant un calcul précis des paramètres théoriques.
 
 La plus ancienne représentation utilisée en cinétique enzymatique est
-celle de Lineweaver-Burk, où les valeurs inverses de \\(V\_0\\) et
-\\(\[S\]\\) sont mis en relation.
+celle de Lineweaver-Burk, où les valeurs inverses de $V_0$ et
+$[S]$ sont mis en relation.
 
-\\\[ \\frac{1}{V\_0} = \\frac{K\_m}{V{max}} \\times \\frac{1}{\[S\]} +
-\\frac{1}{V\_{max}} \\\]
+$$ \frac{1}{V_0} = \frac{K_m}{V_{max}} \times \frac{1}{[S]} + \frac{1}{V_{max}} $$
 
-Cette équation est de la forme \\(y = ax + b\\), où \\(y = 1/V\_0\\), et
-\\(x = 1/\[S\]\\). De ceci on peut conclure que la pente de la droite
-est égale à \\(Km/V\_{max}\\), et que l'ordonnée à l'origine =
-\\(1/V\_{max}\\). Finalement, le point où la droite croisera l'abscisse
-sera égal à \\(-1/K\_m\\).
+Cette équation est de la forme $y = ax + b$, où $y = 1/V_0$, et
+$x = 1/[S]$. De ceci on peut conclure que la pente de la droite
+est égale à $Km/V_{max}$, et que l'ordonnée à l'origine =
+$1/V_{max}$. Finalement, le point où la droite croisera l'abscisse
+sera égal à $-1/K_m$.
 
-
-
-### Régulation {#org470d3d9}
+### Régulation
 
 Les enzymes ne peuvent pas être actives tout le temps, mais doivent être
 modulées pour s'adapter aux besoins de la cellule.

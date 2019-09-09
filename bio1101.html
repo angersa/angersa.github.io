@@ -1,0 +1,14 @@
+---
+title: BIO1101
+layout: index
+---
+<h1>BIO1101</h1>
+
+<ul>
+    {% for page in site.bio1101 %}
+    <li>
+        <h3><a href="{{ page.url }}">{{ page.name }}</a></h2>
+        <h4>{{ page.description }}</h3>
+    </li>
+    {% endfor %}
+</ul>

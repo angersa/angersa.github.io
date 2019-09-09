@@ -1,6 +1,8 @@
 collections:
   authors:
     output: true
+  bio1101:
+    output: true
 
 defaults:
   - scope:
@@ -8,6 +10,16 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+      path: ""
+      type: "bio1101"
+    values:
+      layout: "chapitre"
+  - scope:
+      path: ""
+      type: "bio3150"
+    values:
+      layout: "chapitre"
   - scope:
       path: ""
     values:

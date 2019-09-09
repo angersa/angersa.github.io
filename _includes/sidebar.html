@@ -1,0 +1,10 @@
+
+<div class="sidebar">
+    
+    {% for item in site.data.sidebar %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}class="active" {% endif %}>
+            {{ item.name }}
+    </a>
+    {% endfor %}
+</div>
+

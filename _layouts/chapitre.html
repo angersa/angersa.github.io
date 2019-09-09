@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond|Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script>
+        $("script[type='math/tex']").replaceWith(function () {
+            var tex = $(this).text();
+            return katex.renderToString(tex, { displayMode: false });
+        });
+
+        $("script[type='math/tex; mode=display']").replaceWith(function () {
+            var tex = $(this).html();
+            return katex.renderToString(tex.replace(/%.*/g, ''), { displayMode: true });
+        });
+    </script>
+    {% feed_meta %}
+    {% seo %}
+</head>
+
+<body>
+
+    {% include sidebar.html %}
+
+<div class="content">
+    <p><a href="/bio1101">Table des matières</a></p>
+
+    <h1>{{ page.title }}</h1>
+
+    {{ content }}
+
+</div>
+
+</body>
+
+</html>
+

@@ -10,20 +10,24 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+      mathjax: true
   - scope:
       path: ""
       type: "bio1101"
     values:
       layout: "chapitre"
+      mathjax: true
   - scope:
       path: ""
       type: "bio3150"
     values:
       layout: "chapitre"
+      mathjax: true
   - scope:
       path: ""
     values:
       layout: "default"
+      mathjax: true
 
 plugins:
   - jekyll-feed

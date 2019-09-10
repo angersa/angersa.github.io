@@ -12,8 +12,6 @@ organiques (à base de carbone).
 
 ### H<sub>2</sub>O 
 
-
-
 L'eau ($H_2O$) est la molécule la plus abondante dans la cellule,
 comptant pour environ 70% de la masse cellulaire.
 

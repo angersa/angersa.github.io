@@ -616,3 +616,8 @@ Au final, la plupart des conformations stables comptent entre 50 et 300
 acides aminés. Les chaînes plus longues forment généralement des
 structures locales discrètes, appelées domaines, chaque domaine comptant
 en général entre 50 et 300 acides aminés.
+
+
+
+
+[^2]: Herbert, A., & Rich, A. (1996). The Biology of Left-handed Z-DNA. Journal of Biological Chemistry, 271(20), 11595‑11598. https://doi.org/10.1074/jbc.271.20.11595

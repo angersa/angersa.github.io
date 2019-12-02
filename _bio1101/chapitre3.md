@@ -15,22 +15,16 @@ structure, ils détenaient quelques informations clefs.
 
 On savait que
 
--   L'ADN est composé de quatre nucléotides contenant
-    -   2 bases puriques (adénine et guanine)
-    -   2 bases pyrimidiques (cytosine et thymine)
-    -   Liées à des sucres phosphorylés
--   Linus Pauling venait de décrire le rôle fondamental des liens
-    hydrogène dans la formation des hélices α des protéines
--   La cristallographie de rayons X de Maurice Wilkins et Rosalind
-    Franklin révélait que
-    -   la molécule était une hélice dont un tour mesurait 3,4 nm
-    -   la distance entre chaque base adjacente était de 0,34 nm (donc 10
-    bases par tour)
-    -   la largeur approximative de la molécule était de 2 nm
--   Erwin Chargaff avait analysé la composition de plusieurs ADN et
-    démontré que la quantité d'adénine était toujours égale à la
-    quantité de thymine, et que la quantité de guanine égalait la
-    quantité de cytosine
+- L'ADN est composé de quatre nucléotides contenant
+  - 2 bases puriques (adénine et guanine)
+  - 2 bases pyrimidiques (cytosine et thymine)
+  - Liées à des sucres phosphorylés
+- Linus Pauling venait de décrire le rôle fondamental des liens hydrogène dans la formation des hélices α des protéines
+- La cristallographie de rayons X de Maurice Wilkins et Rosalind Franklin révélait que
+  - la molécule était une hélice dont un tour mesurait 3,4 nm
+  - la distance entre chaque base adjacente était de 0,34 nm (donc 10 bases par tour)
+  - la largeur approximative de la molécule était de 2 nm
+- Erwin Chargaff avait analysé la composition de plusieurs ADN et démontré que la quantité d'adénine était toujours égale à la quantité de thymine, et que la quantité de guanine égalait la quantité de cytosine
 
 Le moment de vérité dans la résolution de la structure fut la
 réalisation que lorsqu'on place une thymine face à une adénine, deux
@@ -43,8 +37,8 @@ permettait de réconcilier l'ensemble des données.
 
 Caractéristiques principales de l'ADN :
 
--   Deux chaînes de nucléotides
--   Enroulées l'une sur l'autre en une double hélice
+- Deux chaînes de nucléotides
+- Enroulées l'une sur l'autre en une double hélice
 
 Le «squelette» de chaque chaîne est constitué d'une alternance de sucres
 et de phosphates. Les bases se projettent vers l'intérieur, mais sont
@@ -143,17 +137,17 @@ d'accepteur et de donneurs de liens hydrogènes ainsi que de liens
 hydrophobes (van der Waals) qui permet de distinguer chaque paire de
 bases. Une paire A:T expose
 
--   \(A) Un accepteur de lien H (N7 de l'adénine)
--   \(D) Un donneur de lien H (groupe amine lié au C6 de l'adénine)
--   \(A) Un accepteur de lien H (carbonyle en C4 de la thymine)
--   \(M) Un groupement hydrophobe (méthyl en C5 de la thymine)
+- (A) Un accepteur de lien H (N7 de l'adénine)
+- (D) Un donneur de lien H (groupe amine lié au C6 de l'adénine)
+- (A) Un accepteur de lien H (carbonyle en C4 de la thymine)
+- (M) Un groupement hydrophobe (méthyl en C5 de la thymine)
 
 De la même façon, une paire C:G expose :
 
--   \(A) Un accepteur de lien H (N7 de la guanine)
--   \(A) Un accepteur de lien H (carbonyle en C6 de la guanine)
--   \(D) Un donneur de lien H (groupe amine lié au C4 de la cytosine)
--   \(H) Un hydrogène non polaire (en C5 de la cytosine)
+- (A) Un accepteur de lien H (N7 de la guanine)
+- (A) Un accepteur de lien H (carbonyle en C6 de la guanine)
+- (D) Un donneur de lien H (groupe amine lié au C4 de la cytosine)
+- (H) Un hydrogène non polaire (en C5 de la cytosine)
 
 Le patron formé par une paire A:T (accepteur, donneur, accepteur,
 hydrophobe) est donc différent du patron formé par une paire G:C, tout
@@ -248,8 +242,8 @@ Ce Tm d'une molécule d'ADN dépend du nombre relatif de paires G:C (%
 G:C) et de la salinité de la solution. Les paires G:C sont plus stables
 que les paires A:T.
 
--   3 liens hydrogènes entre les G:C contre 2 pour les A:T
--   Les interactions de van der Waals entre les paires G:C et les paires
+- 3 liens hydrogènes entre les G:C contre 2 pour les A:T
+- Les interactions de van der Waals entre les paires G:C et les paires
     de bases adjacentes sont plus favorables
 
 L'effet de la salinité, ou de la force ionique est due à la charge
@@ -348,8 +342,7 @@ longueurs d'onde. On peut alors repérer quelles séquences sont communes
 aux deux ensembles, et lesquelles appartiennent spécifiquement à l'un ou
 l'autre.
 
-ARN
----
+## ARN
 
 L'ARN est aussi un acide nucléique, formé d'un assemblage de
 nucléotides. La molécule partage donc plusieurs des propriétés de l'ADN.
@@ -357,10 +350,10 @@ Il y a toutefois quelques différences, qui au final ont un impact
 significatif et font de l'ARN une molécule fondamentalement différente
 de l'ADN.
 
--   L'ARN est simple brin
--   Les nucléotides contiennent un ribose et donc un hydroxyle
+- L'ARN est simple brin
+- Les nucléotides contiennent un ribose et donc un hydroxyle
     supplémentaire sur l'ossature
--   L'uracile remplace la thymine
+- L'uracile remplace la thymine
 
 ### Uracile
 
@@ -431,8 +424,8 @@ Une propriété de l'ARN qui facilite l'adoption de structures double brin
 est la possibilité de créer des appariements supplémentaires, comme les
 paires G:U, qui sont reliées par deux liens H :
 
--   entre le N3 de l'uracile et le carbonyle en C6 de la guanine
--   Entre le carbonyle en C2 de l'uracile et le N1 de la guanine
+- entre le N3 de l'uracile et le carbonyle en C6 de la guanine
+- entre le carbonyle en C2 de l'uracile et le N1 de la guanine
 
 Des paires G:A sont également fréquentes, particulièrement dans les ARN
 ribosomaux.
@@ -468,8 +461,7 @@ d'ARN. D'ailleurs, in vitro, le ribozyme peut accomplir seul la
 réaction, du moment que des charges peptides chargés positivement sont
 ajoutés à la solution.
 
-Protéines
----------
+## Protéines
 
 Les protéines sont des polymères d'acides aminés, assemblés par la
 création du lien peptide (voir chapitre 1).
@@ -483,9 +475,9 @@ des liens covalents le long de l'ossature d'une chaîne polypeptidique
 forme une suite de trois liaisons qui se répètent tout au long de la
 chaîne.
 
-1.  Lien entre le groupe amine et le $C \alpha$
-2.  Lien entre le $C \alpha$ et le groupe carbonyle (acide)
-3.  Lien peptidique entre deux acides aminés
+1. Lien entre le groupe amine et le $C \alpha$
+2. Lien entre le $C \alpha$ et le groupe carbonyle (acide)
+3. Lien peptidique entre deux acides aminés
 
 Les deux premiers liens sont relativement libres de pivoter sur leur
 axe, mais le lien peptidique est rigide à cause de son caractère de
@@ -495,9 +487,9 @@ l'ossature, plus l'angle de rotation de la chaîne latérale de tous les
 acides aminés de la chaîne. Les deux liens pivotants de l'ossature sont
 étiquetés.
 
-1.  $\phi$ entre le $NH_2$ et $C \alpha$
-2.  $\psi$ entre $C \alpha$ et C=O
-3.  Puis numérotés selon l'acide aminé de la chaîne
+1. $\phi$ entre le $NH_2$ et $C \alpha$
+2. $\psi$ entre $C \alpha$ et C=O
+3. Puis numérotés selon l'acide aminé de la chaîne
 
 On peut donc théoriquement décrire la conformation d'un polypeptide par
 la valeur des angles de rotation φ et \psy, ainsi que par ceux des
@@ -509,19 +501,19 @@ limitant la flexibilité des chaînes polypeptidiques
 
 Trois acides aminés ont des propriétés conformationnelles particulières.
 
--   Glycine
-    -   La chaîne latérale est un seul proton (H), ce qui confère
+- Glycine
+  - La chaîne latérale est un seul proton (H), ce qui confère
         beaucoup plus de liberté de rotation à la glycine.
--   Proline
-    -   Au contraire, la chaîne latérale de la proline est liée à
+- Proline
+  - Au contraire, la chaîne latérale de la proline est liée à
         l'amine par un lien covalent, formant un cycle. Les rotations
         sont conséquemment beaucoup plus limitées que pour n'importe
         quel autre acide aminé.
-    -   Le groupe amine participant à un lien covalent supplémentaire,
+  - Le groupe amine participant à un lien covalent supplémentaire,
         il perd la capacité de former un pont H, ce qui restreint sa
         participation aux structures secondaires.
--   Cystéine
-    -   À cause de son groupe sulfhydryle (---SH), la cystéine est
+- Cystéine
+  - À cause de son groupe sulfhydryle (---SH), la cystéine est
         sensible aux réactions d'oxydoréduction. Deux cystéines
         correctement positionnées peuvent former un pont disulfure par
         oxydation des deux groupes ---SH en lien S---S, amenant la
@@ -616,8 +608,5 @@ Au final, la plupart des conformations stables comptent entre 50 et 300
 acides aminés. Les chaînes plus longues forment généralement des
 structures locales discrètes, appelées domaines, chaque domaine comptant
 en général entre 50 et 300 acides aminés.
-
-
-
 
 [^2]: Herbert, A., & Rich, A. (1996). The Biology of Left-handed Z-DNA. Journal of Biological Chemistry, 271(20), 11595‑11598. <https://doi.org/10.1074/jbc.271.20.11595>

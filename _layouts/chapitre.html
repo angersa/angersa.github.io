@@ -17,10 +17,17 @@
     {% include sidebar.html %}
 
 <div class="content">
-    <p><a href="/bio1101">Table des matières</a></p>
+    <!-- <p><a href="/bio1101">Table des matières</a></p> -->
 
+    
+    
     <h1>{{ page.title }}</h1>
-
+    
+    {% assign my_min = page.toc_min | default: site.toc_min | default: 2 %}
+    {% assign my_max = page.toc_max | default: site.toc_max | default: 4 %}
+    
+    {% include toc.html html=content sanitize=true h_min=my_min h_max=my_max %}
+    
     {{ content }}
 
 </div>

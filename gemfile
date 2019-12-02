@@ -14,4 +14,4 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
 end
 
-gem "just-the-docs"
+gem "rubyzip", ">= 1.3.0"

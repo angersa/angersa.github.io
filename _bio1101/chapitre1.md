@@ -96,7 +96,7 @@ Ils peuvent aussi être des marqueurs pour l'adhésion à la matrice
 extracellulaire et le transport des protéines vers leur destination à
 l'intérieur de la cellule.
 
-Les plus communes sont les hexoses ($C_6H_{12}O_6$), principalement le glucose, les pentoses ($C_5H_{10}O_5$) et les trioses ($C_3H_6O_3$).
+Les plus communs sont les hexoses ($C_6H_{12}O_6$), principalement le glucose, les pentoses ($C_5H_{10}O_5$) et les trioses ($C_3H_6O_3$).
 
 Les monosaccharides peuvent être liés ensemble par des liens
 glycosidiques entre deux de leurs carbones pour former des polymères.
@@ -217,7 +217,7 @@ sont en plus liés à un ou plusieurs groupes phosphate par leur carbone
 
 La polymérisation des nucléotides pour former les acides nucléiques
 implique la formation d'un lien phosphodiester entre le groupement
-phosphate en 5' d'un nucléotide, et le groupement hydroxyde en 3' d'un
+phosphate en 5' d'un nucléotide, et le groupement hydroxyle en 3' d'un
 autre nucléotide.
 
 Quelques nucléotides liés ensemble forment un oligonucléotide. L'ADN et
@@ -229,10 +229,13 @@ l'extrémité 3', les nucléotides libres étant toujours associés à l'OH
 libre en 3' d'une chaîne en cours de synthèse. Par convention, on écrit
 toujours les séquences de nucléotides dans le sens 5' → 3'.
 
-#### Complémentarité
 
 C'est l'ordre dans lequel sont assemblés les nucléotides qui détermine
 l'information contenue dans les molécules d'ADN et d'ARN.
+
+#### Complémentarité
+
+L'ADN est généralement double brin, un brin étant complémentaire à l'autre. La complémentarité des brins d'ADN est assurée par la capacité de l'adénine à se pairer à la thymine, et la cytosine avec la guanine. Les nucléotides de l'ARN peuvent aussi s'apparier via leurs bases, l'uracile su liant à l'adénine.
 
 ### Acides aminés
 
@@ -306,7 +309,7 @@ impliquant un échange d'ions $H^+$.
 
 Deux acides aminés ont des acides ($COOH$) comme chaîne latérale: l'acide
 aspartique et l'acide glutamique. Comme ils sont souvent chargés
-négativement dans la cellule ($COO_-$), on y réfère souvent comme
+négativement dans la cellule ($COO^-$), on y réfère souvent comme
 aspartate et glutamate. Ils sont aussi très hydrophiles et par
 conséquent à la surface des protéines ([Tableau 3](#tableau3)).
 
@@ -389,7 +392,7 @@ décrite par la loi d'action de masse:
 
 $$ K_{eq} = \frac{conc^{AB}}{conc^A \times conc^B} $$
 
-Où $K_eq$ est la constante d'équilibre et $conc^A$, $conc^B$ et $conc^AB$ sont les concentrations de A, B et AB en moles par litre (mol/L).
+Où $K_{eq}$ est la constante d'équilibre et $conc^A$, $conc^B$ et $conc^{AB}$ sont les concentrations de A, B et AB en moles par litre (mol/L).
 
 #### L\'énergie libre
 
@@ -483,7 +486,7 @@ induits forces de van der Waals.
 #### Liens hydrogènes
 
 Un lien $H$ se forme entre un atome donneur d'hydrogène $A-H$ et un atome
-avec un atome chargé négativement, accepteur de la liaison hydrogène $B$.
+chargé négativement, accepteur de la liaison hydrogène $B$.
 Le donneur $A$ doit être un élément électronégatif comme l'oxygène ou
 l'azote, pour que l'hydrogène porte une charge partielle. Cette charge
 est projetée vers l'accepteur $B$.
@@ -505,8 +508,8 @@ liaison est considérablement plus faible.
 
 ##### Tableau 4 : Liens H les plus communs en biologie {#tableau4}
 
-  | Lien                               | Longueur du lien H (Å) |
-  | :--------------------------------- | :--------------------: |
+  | Lien                        | Longueur du lien H (Å) |
+  | :-------------------------- | :--------------------: |
   | $O-H \cdot \cdot \cdot O$   |      2,70 ± 0,10       |
   | $O-H \cdot \cdot \cdot O^-$ |      2,63 ± 0,10       |
   | $O-H \cdot \cdot \cdot N$   |      2,88 ± 0,13       |
@@ -589,16 +592,12 @@ nécessaires pour maintenir les systèmes cellulaires, les liens forts
 sont déterminants pour l'accumulation et l'obtention de l'énergie
 nécessaire au maintien et au développement de la cellule.
 
-Les lois de la thermodynamique dictent que seules les réactions
-engendrant un $\Delta G$ négatif ont un équilibre énergétique
-favorable. Que les enzymes interviennent dans la formation ou la cassure
-d'un lien covalent ne modifie en rien la condition d'un $\Delta G$
-négatif.
+Les lois de la thermodynamique dictent qu'un système est à l'équilibre lorsque les concentrations des réactifs et des produits sont telles que l'énergie libre $\Delta G$ est nulle. Or les systèmes biologiques ne sont pas à l'équilibre, mais dans un état stationnaire. Ceci implique qu'un apport constant de réactifs contrebalance la consommation du produit, ce qui fait que les concentrations changent très peu.
 
 Néanmoins, plusieurs réactions biochimiques dans la cellule,
 particulièrement la formation des macromolécules à partir de petits
-précurseurs, impliquent un accroissement de l'énergie libre, ce qui
-semble être en contradiction avec les lois de la thermodynamique.
+précurseurs, impliquent un changement significatif de l'énergie libre, ce qui
+semble être en contradiction avec les lois de la thermodynamique et le maintien de l'état stable.
 
 Ces réactions sont possibles parce que les polymères ne sont pas formés
 directement par la condensation des monomères. Au lieu, les précurseurs
@@ -683,7 +682,7 @@ manière ciblée.
 
 ## Enzymes
 
-Les enzymes sont des protéines (parfois, mais rarement, des ARN), qui
+Les enzymes sont des protéines (parfois, des ARN), qui
 catalysent des réactions biochimiques à l'intérieur des cellules.
 
 Catalyseur
@@ -821,7 +820,7 @@ quelques observations expérimentales fondamentales.
 Tout au long du déroulement de la réaction, le substrat est consommé. La
 concentration est donc modifiée, ce qui implique que la vitesse change.
 On considère donc toujours seulement la vitesse initiale de la réaction
-($V_0$), en faisant l'hypothèse qu'aux instants initiaux de la
+($V_0$ ou $V_i$), en faisant l'hypothèse qu'aux instants initiaux de la
 réaction, la concentration de substrat est largement excédentaire à
 celle du produit, et qu'elle ne varie pas suffisamment pour modifier la
 vitesse de réaction.
@@ -829,19 +828,19 @@ vitesse de réaction.
 - L'équation de Michaelis-Menten
 
 En observant la vitesse initiale de la réaction ($V_0$) en fonction
-de la concentration initiale de substrat ($[S]$), on peut
+de la concentration initiale de substrat ($[S]_i$), on peut
 découvrir les paramètres décrivant la cinétique de l'enzyme. On
 reconnaît deux «zones» importantes dans la courbe décrivant la relation
 entre la $V_0$ et $[S]$.
 
 1. Lorsque $[S]$ est très petite
-   - Le nombre de molécules d'enzymes disponible dépasse largement le
+     - Le nombre de molécules d'enzymes disponible dépasse largement le
         nombre de molécules de substrat à transformer, et il y a donc
         presque toujours une enzyme disponible pour une nouvelle
         réaction. L'augmentation de la vitesse est donc linéaire par
         rapport à la concentration de substrat.
-2.  Lorsque $[S]$ est très grande
-    -  L'enzyme est «saturé». Cela signifie que toutes les molécules
+2. Lorsque $[S]$ est très grande
+     - L'enzyme est «saturé». Cela signifie que toutes les molécules
         d'enzymes sont occupées par le substrat, et travaillent à pleine
         capacité. Augmenter davantage la concentration du substrat ne
         modifiera plus la vitesse, car aucun site actif n'est
@@ -867,8 +866,7 @@ atteinte expérimentalement, l'estimation du $V_{max}$ et du
 $K_m$ à partir de la représentation graphique de $V_0$ en
 fonction de $[S]$ est difficile et imprécise. Différents
 traitements algébriques permettant de linéariser la relation sont
-utilisés à cette fin, bien que l'utilisation d'outils informatiques
-permette maintenant un calcul précis des paramètres théoriques.
+utilisés à cette fin.
 
 La plus ancienne représentation utilisée en cinétique enzymatique est
 celle de Lineweaver-Burk, où les valeurs inverses de $V_0$ et

@@ -5,12 +5,12 @@ name: Chapitre 1
 description: Bases de biochimie générale
 ---
 
-## Les molécules du vivant 
+## Les molécules du vivant
 
 Les cellules sont composées d'eau, d'ions inorganiques et de molécules
 organiques (à base de carbone).
 
-### H<sub>2</sub>O 
+### $H_2O$
 
 L'eau ($H_2O$) est la molécule la plus abondante dans la cellule,
 comptant pour environ 70% de la masse cellulaire.
@@ -34,24 +34,22 @@ Cette dichotomie entre les molécules polaires et non polaires et leur
 capacité d'interagir avec les molécules d'eau joue un rôle crucial dans
 la formation des structures biologiques.[^1]
 
-
 ### Ions inorganiques
 
 Les principaux ions inorganiques sont :
 
--   Sodium ($Na^+$)
--   Potassium ($K^+$)
--   Magnésium ($Mg^{2+}$)
--   Calcium ($Ca^{2+}$)
--   Phosphate ($HPO_4^{2-}$)
--   Chlore ($Cl^{2-}$)
--   Bicarbonate ($HCO_3^-$)
+- Sodium ($Na^+$)
+- Potassium ($K^+$)
+- Magnésium ($Mg^{2+}$)
+- Calcium ($Ca^{2+}$)
+- Phosphate ($HPO_4^{2-}$)
+- Chlore ($Cl^{2-}$)
+- Bicarbonate ($HCO_3^-$)
 
 Ils composent moins de 1% de la masse cellulaire, mais jouent des rôles
 cruciaux dans plusieurs aspects du métabolisme.
 
-
-### Molécules organiques 
+### Molécules organiques
 
 Molécules à base de carbone lié surtout à l'oxygène, l'azote et d'autres
 carbones. Le carbone forme quatre liens, qui forment un tétraèdre
@@ -102,7 +100,6 @@ Les monosaccharides peuvent être liés ensemble par des liens
 glycosidiques entre deux de leurs carbones pour former des polymères.
 Quelques monosaccharides liés ensemble forment des oligosaccharides,
 plusieurs centaines ou milliers, des polysaccharides.
-
 
 #### Polysaccharides
 
@@ -229,7 +226,6 @@ l'extrémité 3', les nucléotides libres étant toujours associés à l'OH
 libre en 3' d'une chaîne en cours de synthèse. Par convention, on écrit
 toujours les séquences de nucléotides dans le sens 5' → 3'.
 
-
 C'est l'ordre dans lequel sont assemblés les nucléotides qui détermine
 l'information contenue dans les molécules d'ADN et d'ARN.
 
@@ -322,7 +318,6 @@ conséquent à la surface des protéines ([Tableau 3](#tableau3)).
   | Histidine        |    His    |    H     |
   | Acide glutamique |    Glu    |    E     |
   | Acide aspartique |    Asp    |    D     |
-
 
 #### Lien peptide {#org830cd22}
 
@@ -652,7 +647,7 @@ OU
 
 $$
 \begin{align*}
-ATP + H_2O → AMP + PP_i + H+\Delta G &= -7~kcal/mol\\ 
+ATP + H_2O → AMP + PP_i + H+\Delta G &= -7~kcal/mol\\
 PP_i + H_2O → 2P_i + H+\Delta G &= -6~kcal/mol\\
 \end{align*}
 $$
@@ -756,7 +751,7 @@ synthétisées par les bactéries, mais sont une composante essentielle de
 la diète des animaux, d\'où le recours fréquent aux suppléments
 vitaminés ([Tableau 5](#tableau5)).
 
-##### Tableau 5 : Principaux coenzymes {#tableau5}
+#### Tableau 5 : Principaux coenzymes {#tableau5}
 
   | Coenzyme               | Vitamine précurseure | Réaction chimique                    |
   | :--------------------- | :------------------- | :----------------------------------- |
@@ -770,7 +765,7 @@ vitaminés ([Tableau 5](#tableau5)).
   | heme                   |                      | Oxydoréduction, transfert d'électron |
   | ATP                    |                      | Phosphorylation                      |
 
-### Noms des enzymes 
+### Noms des enzymes
 
 Le génome humain code bien au-delà de 5000 enzymes différentes.
 Certaines ont des noms qui reflètent bien leur fonction, comme l'ADN
@@ -908,8 +903,6 @@ acides aminés sérine, thréonine ou tyrosine a un effet significatif sur
 la conformation tridimensionnelle des enzymes et peut aisément les
 activer ou les inactiver.
 
-
 ------------------------------------------
-
 
 [^1]: Pour en sacoir plus sur la polarité des molécules, le document suivant peut être très utile <http://www.meine-mathe.de/Chimie/eModules/2b1/bc-1-polarite.pdf>.

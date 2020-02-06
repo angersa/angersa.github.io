@@ -67,8 +67,6 @@ Le reste de l'ADN intergénique est consituté de séquences répétées, princi
 
 Les éléments transposables sont des séquences qui peuvent sauter d'un emplacement à l'autre au sein du génome. La plupart du temps, la transposition conduit ces éléments à s'insérer dans une nouvelle région du génome, mais laisse la copie originale à son site initial. Par conséquent, ces éléments s'accumulent dans le génome. Même si ces événements sont relativement rares, sur de longues périodes d'évolution, ces éléments se sont propagés suffisamment pour représenter aujourd'hui presque la moitié (45%) du génome humain.
 
-
-
 ## Chromatine
 
 ### Chez les eucaryotes

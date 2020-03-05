@@ -102,5 +102,7 @@ Les régions impliquées dans l'expression des gènes, la réplication ou la rec
 
 ## Réplication
 
+Lors de la réplication, l'ADN de l'ensemble du génome doit être dupliqué. Logiquement, la régulation de la réplication est intimement liée au cycle cellulaire, qui déclenche la duplication. C'est ce qui définit la phase S du cycle cellulaire.
+
 ## Réparation de l'ADN
 

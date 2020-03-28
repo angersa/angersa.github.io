@@ -3,6 +3,7 @@ author: Annie Angers
 title: Biochimie élémentaire
 name: Chapitre 1
 description: Bases de biochimie générale
+tags: [bio1101, biochimie]
 ---
 
 ## Les molécules du vivant
